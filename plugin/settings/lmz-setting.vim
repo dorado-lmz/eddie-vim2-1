@@ -4,8 +4,6 @@ imap <C-j> OB
 imap <C-k> OA
 imap <C-g> OD
 imap <C-e> OC
-map wq :wq
-imap wq :wq
 map qq :q!
 map <F1> <C-W><C-W>
 map zz :bp

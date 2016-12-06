@@ -41,6 +41,10 @@ set hlsearch                          " search highlighting
 set incsearch                         " incremental search
 syntax enable
 set t_Co=256
+let g:solarized_termcolors=256
+let g:solarized_termtrans=1
+let g:solarized_contrast="normal"
+let g:solarized_visibility="normal"
 try
   colorscheme solarized_dark
 catch
