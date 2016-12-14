@@ -1,3 +1,5 @@
+set guifont=Monaco\ 14
+
 "keyboard
 imap jk 
 imap <C-j> OB

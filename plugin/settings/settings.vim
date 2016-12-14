@@ -95,4 +95,5 @@ autocmd BufWritePre * :%s/\s\+$//e
 
 " shell setting for RVM
 set shell=/bin/sh
-
+hi LineNr ctermbg=black
+hi CursorLine ctermbg=black
